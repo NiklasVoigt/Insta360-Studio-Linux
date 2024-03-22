@@ -1,6 +1,8 @@
 # Insta360-Studio-Linux
 Insta360 Studio works with wine under Ubuntu &amp; Arch/Manjaro (with cuda)
 
+<img src="screenshot.png" width="100%">
+
 ## Ubuntu 18.04,  20.04, 22.04
   ### install wine 
     sudo apt install wine winetricks 
