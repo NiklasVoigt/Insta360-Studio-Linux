@@ -19,7 +19,7 @@ Insta360 Studio works with wine under Ubuntu &amp; Arch/Manjaro (with cuda)
 
 ## Arch & Manjaro
   ### install wine 
-    sudo pacman -S wine winetricks 
+    sudo pacman -S wine winetricks samba
   ### update via self update
     sudo winetricks --self-update 
   ### install vcrun2019
