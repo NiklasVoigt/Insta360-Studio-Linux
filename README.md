@@ -1,5 +1,5 @@
 # Insta360-Studio-Linux
-Insta360 Studio works with wine under Ubuntu &amp; Arch/Manjaro (with cuda)
+Insta360 Studio works with wine under Ubuntu &amp; Arch/Manjaro (with cuda) tested up to v5.0.0
 
 <img src="screenshot.png" width="100%">
 
